@@ -13,7 +13,7 @@
 
 - A passionate Computer Science Student.
 - Done several projects using Java, DataStructures, and Algorithms.
-- Interested in Android development, and UI/UI.
+- Interested in Android development, and UX/UI.
 - Currently learning Android development, and Web development.
 
 <br>
