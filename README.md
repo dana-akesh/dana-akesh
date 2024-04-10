@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **danaakesh@gmail.com**
 - LinkedIn  <a href="https://www.linkedin.com/in/dana-akesh-4b0190213/"> Profile </a>
-- Behance (coming soon!)
 
 <h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> About me: </h3>
 
