@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Dana Akesh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33CCCC&width=435&lines=Usability+is+the+heart+of+designs;Computer+Science+Student;Jerusalem+-+Birzeit+University;+Creative,+Active+,and+fast+learner;Let's+Connect...+%3D)" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E000F7&center=true&vCenter=true&random=false&width=435&lines=Future+UI%2FUXer+;Every+pixel+has+a+purpose+;and+every+interaction+tells+a+story;Let's+Connect...+%F0%9F%98%80" alt="Typing SVG" /></a>
 </p>
 
 - 📫 How to reach me **danaakesh@gmail.com**
