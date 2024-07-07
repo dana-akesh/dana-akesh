@@ -17,7 +17,6 @@
      </ul>
       <h3><picture><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px"></picture> About me:</h3>
       <ul>
-        <li>A passionate Computer Science Graduate</li>
         <li>Done several projects using Java, DataStructures, HTML, CSS, PHP, famous Algorithms, and some encryption!</li>
         <li>Interested in Android development, and UX/UI.</li>
         <li>Some basic backend development with Springboot to make some APIs!</li>
