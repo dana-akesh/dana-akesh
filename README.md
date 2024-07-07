@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi, I'm Dana Akesh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=6000&pause=1000&color=0BB854&center=true&vCenter=true&random=false&width=680&lines=%22Every+Interaction+Tells+a+Story%22;%22More+options%2C+more+problems%22;%22People+ignore+design+that+ignores+people%22;%E2%80%9CDesign+isn%E2%80%99t+finished+until+somebody+is+using+it.%E2%80%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=6000&pause=1000&color=0BB854&center=true&vCenter=true&random=false&width=680&lines=%22Every+Interaction+Tells+a+Story%22;%22More+options%2C+more+problems%22;%22People+ignore+design+that+ignores+people%22;%E2%80%9CDesign+isn%E2%80%99t+finished+until+somebody+is+using+it.%E2%80%9D" alt="Typing SVG" /></a>
 </p>
 
 <table border="0" style="width: 100%;">
