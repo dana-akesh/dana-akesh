@@ -13,7 +13,7 @@
      <h3><picture><img src="https://github.com/dana-akesh/dana-akesh/blob/main/brenfi-girl.gif" width="30px"></picture> Let's Connect: </h3>
      <ul>
       <li>📫 How to reach me <a href="mailto:danaakesh@gmail.com">danaakesh@gmail.com</a></li>
-      <li><a href="https://www.linkedin.com/in/dana-akesh-4b0190213/"> LinkedIn Profile </a></li>
+      <li>ℹ️<a href="https://www.linkedin.com/in/dana-akesh-4b0190213/"> LinkedIn Profile </a></li>
      </ul>
       <h3><picture><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px"></picture> About me:</h3>
       <ul>
