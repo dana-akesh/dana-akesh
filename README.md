@@ -26,6 +26,9 @@
       <li>ℹ️
        <a href="https://www.linkedin.com/in/dana-akesh-4b0190213/">LinkedIn Profile </a>
       </li>
+      <li>ℹ️
+       <a href="https://www.behance.net/danaakesh">Behance Portfolio </a>
+      </li>
      </ul>
       <h3>
        <picture>
@@ -80,6 +83,24 @@
        </a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+       </a>
+       <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="canva" width="%100" height="40"/>
+       </a>
+       <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" alt="jetbrains" width="%100" height="40"/>
+       </a>
+       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+       </a>
+       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
+       </a>
+       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="40" height="40"/>
+       </a>
+       <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
        </a>
       </p>
     </td>
