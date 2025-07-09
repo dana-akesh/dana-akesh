@@ -105,7 +105,7 @@
       </p>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github.com/dana-akesh/dana-akesh/blob/main/gj.gif" alt="Your Image" width="100%" height="100%">
+      <img src="https://github.com/dana-akesh/dana-akesh/blob/main/gj.gif" alt="Your Image" width="300px" height="450px">
     </td>
   </tr>
 </table>
